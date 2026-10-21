@@ -1,31 +1,21 @@
 <div align="center">
-  <img src="assets/pixel-signal.gif" alt="Animated purple pixel grid banner" width="100%" />
-
+  <img src="pixel-signal.gif" alt="Animated purple pixel grid" width="100%" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/FOCUS-MINECRAFT_CLIENTS-9B7BFF?style=flat-square&labelColor=171321" alt="Focus: Minecraft clients" />
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-171321?style=flat-square&labelColor=171321" alt="Status: in development" />
   <h1>prism1337</h1>
   <p><strong>Minecraft client developer</strong></p>
-  <p>Building Minecraft clients and sharing the work here.</p>
-
-  <a href="https://github.com/slepy2968-hub">GitHub profile</a>
+  <a href="https://github.com/slepy2968-hub">github profile</a>
 </div>
 
 ---
 
-### About
-че
-I develop Minecraft clients and document my projects here.
+### about
 
-### Projects
+I develop Minecraft clients and share project updates here.
 
-| Project | Description | Status |
-| --- | --- | --- |
-| [prism1337](https://github.com/slepy2968-hub/prism1337) | Minecraft client development | In progress |
+### current project
 
-### Contribution activity
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=slepy2968-hub&bg_color=090711&color=c9b6ff&line=8b5cf6&point=f5f3ff&area=true&hide_border=true&custom_title=Contribution%20activity"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
-</div>
+**[prism1337](https://github.com/slepy2968-hub/prism1337)**  
+Minecraft client development · in progress
